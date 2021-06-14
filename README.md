@@ -1,5 +1,3 @@
-## ARIC 2021
-
 4th ACM SIGSPATIAL Workshop on Advances on Resilient and Intelligent Cities (ARIC 2021)
 
 [comment]: <> (<table>)
@@ -158,25 +156,25 @@ Olufemi A. Omitaomu, Oak Ridge National Laboratory (omitaomuoa@ornl.gov)
 
 ### Program Committee
 
-Qunying 	Huang，		University of Wisconsin-Madison
+Qunying Huang，		University of Wisconsin-Madison
 
-Xiao 		Huang，		University of South Carolina
+Xiao Huang，		University of South Carolina
 
-Sarbeswar	Praharaj， 	Arizona State University
+Sarbeswar Praharaj， 	Arizona State University
 
-Subharoop 	Ghosh，		ImageCat Inc.
+Subharoop Ghosh，		ImageCat Inc.
 
-Zhenlong 	Li，		University of South Carolina
+Zhenlong Li，		University of South Carolina
 
-Ian 		McRae，	UC Berkley
+Ian McRae，	UC Berkley
 
-Yao-yi	Chiang，	University of Southern California 
+Yao-yi Chiang，	University of Southern California 
 
-Lei 		Zou， 		Texas A & M
+Lei Zou， 		Texas A & M
 
 Hussain	Aziz，		Kansas State University 
 
-Christine 	Prouty，		American Society of Civil Engineers
+Christine Prouty，		American Society of Civil Engineers
 
 Therese McAllister，NIST
 
