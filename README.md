@@ -1,9 +1,7 @@
-4th ACM SIGSPATIAL Workshop on Advances on Resilient and Intelligent Cities (ARIC 2021)
-
 <table>
     <tbody><tr>
-      <td id="sigspatial-logo" rowspan="2"><img style="max-height:105px;max-width:95px;" src="../theme/images/thumbs/acmsigspatial-full.png"><br><img src="../theme/images/thumbs/logotempleheavenfull2021.png"></td>
-      <td><img src="../theme/images/thumbs/a.png"></td>
+      <td id="sigspatial-logo" rowspan="2"><img style="max-height:105px;max-width:95px;" src="./theme/images/thumbs/acmsigspatial-full.png"><br><img src="../theme/images/thumbs/logotempleheavenfull2021.png"></td>
+      <td><img src="./theme/images/thumbs/a.png"></td>
       <td id="sigspatial-title" colspan="3">
         29th ACM SIGSPATIAL<br>
         4th ACM SIGSPATIAL Workshop<br>
@@ -13,10 +11,10 @@
       </td>
     </tr>
     <tr>
-      <td><img src="../theme/images/thumbs/b.png"></td>
-      <td><img src="../theme/images/thumbs/c.png"></td>
-      <td><img src="../theme/images/thumbs/d.png"></td>
-      <td><img src="../theme/images/thumbs/e.png"></td>
+      <td><img src="./theme/images/thumbs/b.png"></td>
+      <td><img src="./theme/images/thumbs/c.png"></td>
+      <td><img src="./theme/images/thumbs/d.png"></td>
+      <td><img src="./theme/images/thumbs/e.png"></td>
 
     </tr>
   </tbody></table>
