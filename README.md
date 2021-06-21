@@ -117,29 +117,29 @@ Olufemi A. Omitaomu, Oak Ridge National Laboratory (omitaomuoa@ornl.gov)
 
 ### Program Committee
 
-Qunying Huang，		University of Wisconsin-Madison
+Hussain	Aziz, Kansas State University 
 
-Xiao Huang，		University of Arkansas
+Yao-yi Chiang, University of Southern California
 
-Sarbeswar Praharaj， 	Arizona State University
+Subharoop Ghosh, ImageCat Inc.
 
-Subharoop Ghosh，		ImageCat Inc.
+Qunying Huang, University of Wisconsin-Madison
 
-Zhenlong Li，		University of South Carolina
+Xiao Huang, University of Arkansas
 
-Ian McRae，	UC Berkley
-
-Yao-yi Chiang，	University of Southern California 
-
-Lei Zou， 		Texas A & M
-
-Hussain	Aziz，		Kansas State University 
-
-Christine Prouty，		American Society of Civil Engineers
+Zhenlong Li, University of South Carolina
 
 Therese McAllister，NIST
 
-Yao Yao， 		China University of Geosciences
+Ian McRae, UC Berkley
+
+Sarbeswar Praharaj, Arizona State University
+
+Christine Prouty, American Society of Civil Engineers
+
+Yao Yao, China University of Geosciences
+
+Lei Zou, Texas A & M
 
 ### Point of Contact
 Dr. Bandana Kar,
