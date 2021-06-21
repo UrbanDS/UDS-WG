@@ -1,42 +1,25 @@
 4th ACM SIGSPATIAL Workshop on Advances on Resilient and Intelligent Cities (ARIC 2021)
 
-[comment]: <> (<table>)
+<table>
+    <tbody><tr>
+      <td id="sigspatial-logo" rowspan="2"><img style="max-height:105px;max-width:95px;" src="../theme/images/thumbs/acmsigspatial-full.png"><br><img src="../theme/images/thumbs/logotempleheavenfull2021.png"></td>
+      <td><img src="../theme/images/thumbs/a.png"></td>
+      <td id="sigspatial-title" colspan="3">
+        29th ACM SIGSPATIAL<br>
+        4th ACM SIGSPATIAL Workshop<br>
+        on Advances on Resilient and Intelligent Cities<br>
+        (ARIC 2021)<br>
+        <span class="info">Tuesday November 2 - Friday November 5, 2021<br> Beijing, China</span>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="../theme/images/thumbs/b.png"></td>
+      <td><img src="../theme/images/thumbs/c.png"></td>
+      <td><img src="../theme/images/thumbs/d.png"></td>
+      <td><img src="../theme/images/thumbs/e.png"></td>
 
-[comment]: <> (  <tr>)
-
-[comment]: <> (    <td><img src="./img/skyline1.jpg"></td>)
-
-[comment]: <> (    <td colspan="3">)
-
-[comment]: <> (        <b><font size="5">3rd ACM SIGSPATIAL)
-
-[comment]: <> (    	  International Workshop on Advances)
-
-[comment]: <> (        in Resilient and Intelligent Cities  )
-
-[comment]: <> (        &#40;ARIC 2020&#41;</font></b>)
-
-[comment]: <> (        Tuesday, November 3, 2020 )
-
-[comment]: <> (        Seattle, Washington, USA )
-
-[comment]: <> (    </td>)
-
-[comment]: <> (  </tr>)
-
-[comment]: <> (  <tr>)
-
-[comment]: <> (    <td><img src="./img/ballard.jpg"></td>)
-
-[comment]: <> (    <td><img src="./img/pikemarket.jpg"></td>)
-
-[comment]: <> (    <td><img src="./img/realestate.jpg"></td>)
-
-[comment]: <> (    <td><img src="./img/mount1.jpg"></td>)
-
-[comment]: <> (  </tr>)
-
-[comment]: <> (</table>)
+    </tr>
+  </tbody></table>
 
 
 ### Background
@@ -158,7 +141,7 @@ Olufemi A. Omitaomu, Oak Ridge National Laboratory (omitaomuoa@ornl.gov)
 
 Qunying Huang，		University of Wisconsin-Madison
 
-Xiao Huang，		University of South Carolina
+Xiao Huang，		University of Arkansas
 
 Sarbeswar Praharaj， 	Arizona State University
 
@@ -178,6 +161,8 @@ Christine Prouty，		American Society of Civil Engineers
 
 Therese McAllister，NIST
 
+Yao Yao， 		China University of Geosciences
+
 ### Point of Contact
 Dr. Bandana Kar,
 
@@ -190,3 +175,6 @@ Email: karb@ornl.gov
 Phone: +1-865-576-3717
 
 Fax: +1-865-241-6261
+
+
+@copyright ACM SIGSPATIAL
