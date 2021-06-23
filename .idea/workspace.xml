@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="correct image path">
+    <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="sort by last name">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/call-for-papers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/committees.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anonymous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bullets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/p5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sigspatial_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inland.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.nivo.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/papers-submission.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +95,9 @@
       <workItem from="1623711035328" duration="2494000" />
       <workItem from="1623867242047" duration="4000" />
       <workItem from="1623971829173" duration="606000" />
-      <workItem from="1624241241076" duration="1603000" />
+      <workItem from="1624241241076" duration="3433000" />
+      <workItem from="1624290480479" duration="413000" />
+      <workItem from="1624461900102" duration="6126000" />
     </task>
     <task id="LOCAL-00001" summary="add file">
       <created>1623712631916</created>
@@ -113,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624242639142</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="delete copyright images">
+      <created>1624242876981</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624242876981</updated>
+    </task>
+    <task id="LOCAL-00009" summary="sort by last name">
+      <created>1624290889225</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624290889225</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +184,8 @@
     <MESSAGE value="add file" />
     <MESSAGE value="add images&#10;correct affiliates&#10;add PC" />
     <MESSAGE value="correct image path" />
-    <option name="LAST_COMMIT_MESSAGE" value="correct image path" />
+    <MESSAGE value="delete copyright images" />
+    <MESSAGE value="sort by last name" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort by last name" />
   </component>
 </project>
