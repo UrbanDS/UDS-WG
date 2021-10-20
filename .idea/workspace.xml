@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="re-design the website">
+    <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="typo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/call-for-papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call-for-papers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/committees.html" beforeDir="false" afterPath="$PROJECT_DIR$/committees.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sigspatial_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sigspatial_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers-submission.html" beforeDir="false" afterPath="$PROJECT_DIR$/papers-submission.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -72,6 +69,14 @@
       <workItem from="1624241241076" duration="3433000" />
       <workItem from="1624290480479" duration="413000" />
       <workItem from="1624461900102" duration="6775000" />
+      <workItem from="1628003953162" duration="1035000" />
+      <workItem from="1628093059198" duration="1042000" />
+      <workItem from="1628190911408" duration="113000" />
+      <workItem from="1629412750282" duration="459000" />
+      <workItem from="1629467129239" duration="721000" />
+      <workItem from="1632146210629" duration="766000" />
+      <workItem from="1632257806308" duration="12000" />
+      <workItem from="1634744006138" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="add file">
       <created>1623712631916</created>
@@ -143,7 +148,63 @@
       <option name="project" value="LOCAL" />
       <updated>1624468162188</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update the deadlines">
+      <created>1628004383114</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628004383114</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update pc members">
+      <created>1628100005194</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1628100005194</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update pc members">
+      <created>1628191018822</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628191018822</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update easy chair link">
+      <created>1629412837002</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1629412837002</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update pc members">
+      <created>1629413205529</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1629413205529</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update pc members">
+      <created>1629467223055</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1629467223056</updated>
+    </task>
+    <task id="LOCAL-00017" summary="We are extending the paper submission deadline for the ARIC workshop to September 30th.">
+      <created>1632146329657</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1632146329657</updated>
+    </task>
+    <task id="LOCAL-00018" summary="typo">
+      <created>1632163635156</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1632163635156</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +229,11 @@
     <MESSAGE value="delete copyright images" />
     <MESSAGE value="sort by last name" />
     <MESSAGE value="re-design the website" />
-    <option name="LAST_COMMIT_MESSAGE" value="re-design the website" />
+    <MESSAGE value="update the deadlines" />
+    <MESSAGE value="update easy chair link" />
+    <MESSAGE value="update pc members" />
+    <MESSAGE value="We are extending the paper submission deadline for the ARIC workshop to September 30th." />
+    <MESSAGE value="typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo" />
   </component>
 </project>
